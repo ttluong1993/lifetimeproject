@@ -1,7 +1,7 @@
 <?php 
 require "test.php"; 
 
-$text =  "from the consent of the governed.";  
+$text = "Hello World";  
          
 $from = 'english';  
 $to   = 'vietnamese';  
